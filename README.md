@@ -2,8 +2,8 @@
 
 
 
-### Soy un profesional autodidacta y estudiante de Ingeniería en Sistemas, actualmente cursando el noveno semestre. 
-### Cuento con 3 años de experiencia laboral en el área de TI y me encuentro en un proceso constante de aprendizaje y desarrollo, preparándome para convertirme en un desarrollador full stack.
+### Operaciones de IT, administracion de IBM (AS400) * Banco GyT Continental
+### Cuento con mas de 3 años de experiencia laboral en el área de IT y desarrollo web backend y frontend.
 
 ---
 
